@@ -1,5 +1,4 @@
-<img width="946" alt="capture" src="https://user-images.githubusercontent.com/82716367/159891552-d3f42ece-cfbc-4e78-bd13-916fbed84226.png">
-<img width="298" alt="capture2" src="https://user-images.githubusercontent.com/82716367/159891566-931cd33f-77fa-4117-ae15-fc8606399a84.png">
+
 # tp3-televersement_image
 ce tp a pour but de réaliser un televersement d'images en parcourant une arborescence de fichier et de les stocker dans une base de données ,c'est une suite du tp 2.
 le fichier LireRecursiDir permet de parcourir cette arborescence,l'integralité du fichier est commenté pour mieux comprendre.
@@ -15,4 +14,5 @@ sur la page index on trouve également un lien qui permet de parcourir l'arbores
 
 L'ensemble de ce tp est réalisé avec mysql,php et bootstrap pour la mise en page.
 
-
+<img width="946" alt="capture" src="https://user-images.githubusercontent.com/82716367/159891552-d3f42ece-cfbc-4e78-bd13-916fbed84226.png">
+<img width="298" alt="capture2" src="https://user-images.githubusercontent.com/82716367/159891566-931cd33f-77fa-4117-ae15-fc8606399a84.png">

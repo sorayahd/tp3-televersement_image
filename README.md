@@ -15,5 +15,6 @@ L'ensemble de ce tp est réalisé avec mysql,php et bootstrap pour la mise en pa
 
 ![My Image](./capture/capture.PNG)
 ![My Image](capture/capture2.PNG)
-![Alt text](capture.PNG?raw=true "Optional Title")
-https://postimg.cc/gallery/hTmfppf
+
+
+![ScreenShot](https://postimg.cc/gallery/hTmfppf)

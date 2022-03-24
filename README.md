@@ -13,5 +13,5 @@ sur la page index on trouve également un lien qui permet de parcourir l'arbores
 
 L'ensemble de ce tp est réalisé avec mysql,php et bootstrap pour la mise en page.
 
-![My Image](/capture/capture.PNG)
-![My Image](/capture/capture2.PNG)
+![My Image](capture/capture.PNG)
+![My Image](capture/capture2.PNG)

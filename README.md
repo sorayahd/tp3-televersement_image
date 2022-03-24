@@ -1,5 +1,8 @@
 
 # tp3-televersement_image
+
+HADDAD SORAYA 
+
 ce tp a pour but de réaliser un televersement d'images en parcourant une arborescence de fichier et de les stocker dans une base de données ,c'est une suite du tp 2.
 le fichier LireRecursiDir permet de parcourir cette arborescence,l'integralité du fichier est commenté pour mieux comprendre.
 
